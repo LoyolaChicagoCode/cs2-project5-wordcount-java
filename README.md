@@ -47,10 +47,10 @@ Specifically:
 1. Download this book: https://archive.org/stream/lesmisrables01unkngoog/lesmisrables01unkngoog_djvu.txt.
 1. Use the program to determine the 10 most frequent words and their frequencies in this text by redirecting stdin from the downloaded file:
 
-      ./build/scripts/cs2-lab10-wordcount-java-solution < lesmisrables01unkngoog_djvu.txt
-      word1=freq1 <- results start here
-      word2=freq2
-      ...
+       ./build/scripts/cs2-lab10-wordcount-java-solution < lesmisrables01unkngoog_djvu.txt
+       word1=freq1 <- results start here
+       word2=freq2
+       ...
 
 1. Report the results in the written part (Answers.md).
 1. Answer the following questions, also in Answers.md:
