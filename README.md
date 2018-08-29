@@ -1,4 +1,4 @@
-# COMP 271 002 F17 Lab 8 (Week 10)
+# Loyola COMP 271 Lab 8
 
 # Team project
 
