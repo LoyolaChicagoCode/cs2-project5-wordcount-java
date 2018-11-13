@@ -23,7 +23,7 @@ The tool then prints the (up to) 10 most frequent words and their frequencies in
 
 Example:
 
-      ./build/scripts/cs2-lab10-wordcount-java
+      mvn exec:java
       asdf oiu qwer
       asdf oiu
       oiu qwer
@@ -48,7 +48,7 @@ Specifically:
 1. Download this book: https://archive.org/stream/lesmisrables01unkngoog/lesmisrables01unkngoog_djvu.txt.
 1. Use the program to determine the 10 most frequent words and their frequencies in this text by redirecting stdin from the downloaded file:
 
-       ./build/scripts/cs2-lab10-wordcount-java-solution < lesmisrables01unkngoog_djvu.txt
+       mvn exec:java < lesmisrables01unkngoog_djvu.txt
        word1=freq1 <- results start here
        word2=freq2
        ...
