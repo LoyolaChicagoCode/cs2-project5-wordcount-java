@@ -1,8 +1,8 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.luc.cs</groupId>
-  <artifactId>cs2-lab8</artifactId>
-  <version>0.1</version>
+  <artifactId>cs2-lab4</artifactId>
+  <version>0.2</version>
   
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
@@ -13,7 +13,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.12</version>
+      <version>4.13</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
