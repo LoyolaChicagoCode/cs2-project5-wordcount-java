@@ -58,7 +58,7 @@ Specifically:
    - What crucial role does the Iterator abstraction play in making `WordCounter` testable?
 
 
-#Submission
+# Submission
 
 -    Make sure you have created a separate project for this activity.
 -    Include a project-specific readme file including your reflection and any other thoughts or design decisions.
