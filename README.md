@@ -62,7 +62,7 @@ Specifically:
 
 -    Make sure you have created a separate project for this activity.
 -    Include a project-specific readme file including your reflection and any other thoughts or design decisions.
--    In IDEA, export your project as a zip file and attach here.
+-    In IDEA, export your project as a zip file and submit as an attachment.
 
 
 # Grading (total 5)
