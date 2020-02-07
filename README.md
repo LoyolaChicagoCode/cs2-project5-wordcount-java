@@ -1,7 +1,7 @@
 # Pair project
 
-Collaborate with your classmates on a conceptual level but do not share code.
-Submit individually and clearly state who your project partner is.
+Collaborate with your teammates but submit individually.
+Clearly list the members of your team.
 
 # Objectives
 
