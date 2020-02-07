@@ -1,9 +1,7 @@
-# Loyola COMP 271 Lab 8
-
-# Individual project
+# Pair project
 
 Collaborate with your classmates on a conceptual level but do not share code.
-Submit individually.
+Submit individually and clearly state who your project partner is.
 
 # Objectives
 
