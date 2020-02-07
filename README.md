@@ -57,11 +57,18 @@ Specifically:
    - What happens if you invoke `countWords` multiple times for different String iterators?
    - What crucial role does the Iterator abstraction play in making `WordCounter` testable?
 
+
+#Submission
+
+-    Make sure you have created a separate project for this activity.
+-    Include a project-specific readme file including your reflection and any other thoughts or design decisions.
+-    In IDEA, export your project as a zip file and attach here.
+
+
 # Grading (total 5)
 
-- 1 submission via GitHub
-- 2 completion of items marked TODO in `src/main` and correct behavior
-- 1 completion of meaningful tests in `TestWordCount`
+- 2.5 completion of items marked TODO in `src/main` and correct behavior
+- 1.5 completion of meaningful tests in `TestWordCount`
 - 1 written part
   - 0.8 responses to the questions above
   - 0.2 grammar, style, formatting
