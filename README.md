@@ -43,7 +43,7 @@ Specifically:
 
         Arrays.asList("asdf", "oiu", "qwer").iterator()
 
-1. Download this book: https://archive.org/stream/lesmisrables01unkngoog/lesmisrables01unkngoog_djvu.txt.
+1. Download the e-book attached to the assignment.
 1. Use the program to determine the 10 most frequent words and their frequencies in this text by redirecting stdin from the downloaded file:
 
        mvn exec:java < lesmisrables01unkngoog_djvu.txt
