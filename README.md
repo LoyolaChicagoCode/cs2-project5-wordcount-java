@@ -57,7 +57,7 @@ Specifically:
    - What happens if you invoke `countWords` multiple times for different String iterators?
    - What crucial role does the Iterator abstraction play in making `WordCounter` testable?
 
-# Grading
+# Grading (total 5)
 
 - 1 submission via GitHub
 - 2 completion of items marked TODO in `src/main` and correct behavior
@@ -65,5 +65,3 @@ Specifically:
 - 1 written part
   - 0.8 responses to the questions above
   - 0.2 grammar, style, formatting
-
-*5 points TOTAL*
