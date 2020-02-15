@@ -43,9 +43,17 @@ Specifically:
 
         Arrays.asList("asdf", "oiu", "qwer").iterator()
 
-1. Download the e-book attached to the assignment.
+1. Download the e-book attached to the assignment and copy it into your project's root directory.
 1. Use the program to determine the 10 most frequent words and their frequencies in this text by redirecting stdin from the downloaded file:
+    - Run > Run... > Edit Configuration 
+    - check "Redirect input from" and enter the exact file name including the .txt extension
+      (do not browse to the file because that would create an absolute path)
+    - press Run
+    
+   Alternatively, if you have a working installation of the [Maven build tool](https://maven.apache.org/), you can perform this task in the terminal:
 
+       cd <your project's root directory>
+       mvn compile
        mvn exec:java < lesmisrables01unkngoog_djvu.txt
        word1=freq1 <- results start here
        word2=freq2
