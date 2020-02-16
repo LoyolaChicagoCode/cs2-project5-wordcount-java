@@ -68,12 +68,12 @@ Specifically:
 For your reference, the top 10 words in Les Miserables are
 
 ```
-the=33282
-of=18016
-and=12849
-a=12717
-to=12450
-in=9387
+the=33278
+of=18012
+and=12845
+a=12449
+to=12449
+in=9386
 was=7788
 that=6601
 he=6202
