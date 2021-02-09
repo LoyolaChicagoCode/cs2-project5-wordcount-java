@@ -1,4 +1,6 @@
-# Pair project
+# Loyola COMP 271 Lab 4: sets and maps
+
+## Group activity
 
 Collaborate with your teammates but submit individually.
 Clearly list the members of your team.
@@ -21,7 +23,7 @@ The tool then prints the (up to) 10 most frequent words and their frequencies in
 
 Example:
 
-      mvn exec:java
+      Run > Run main (or similar)
       asdf oiu qwer
       asdf oiu
       oiu qwer
