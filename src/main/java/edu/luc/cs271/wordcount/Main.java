@@ -10,6 +10,7 @@ public class Main {
     final Scanner input = new Scanner(System.in).useDelimiter("[^\\p{Alnum}]+");
 
     // TODO complete this main program
+    // 0. create suitable map instance
     // 1. create a WordCounter instance
     // 2. use this to count the words in the input
     // 3. determine the size of the resulting map
