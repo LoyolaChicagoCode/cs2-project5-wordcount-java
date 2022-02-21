@@ -43,7 +43,7 @@ Specifically:
    To avoid the need for file input to populate the `WordCounter` instance,
    directly create the desired iterator like so:
 
-        Arrays.asList("asdf", "oiu", "qwer").iterator()
+        List.of("asdf", "oiu", "qwer").iterator()
 
 1. Download the e-book attached to the assignment and copy it into your project's root directory.
 1. Use the program to determine the 10 most frequent words and their frequencies in this text by redirecting stdin from the downloaded file:
