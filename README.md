@@ -90,10 +90,10 @@ his=5529
 -    In IDEA, export your project as a zip file and submit as an attachment.
 
 
-# Grading (total 5)
+# Grading (total 3.5)
 
-- 2.5 completion of items marked TODO in `src/main` and correct behavior
-- 1.5 completion of meaningful tests in `TestWordCount`
-- 1 written part
-  - 0.8 responses to the questions above
-  - 0.2 grammar, style, formatting
+- 2 completion of items marked TODO in `src/main` and correct behavior
+- 1 completion of meaningful tests in `TestWordCount`
+- 0.5 written part
+  - 0.4 responses to the questions above
+  - 0.1 grammar, style, formatting
