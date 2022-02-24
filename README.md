@@ -86,7 +86,7 @@ his=5529
 # Submission
 
 -    Make sure you have created a separate project for this activity.
--    Include a project-specific readme file including your reflection and any other thoughts or design decisions.
+-    Include a project-specific Answers.md file including your reflection and any other thoughts or design decisions.
 -    In IDEA, export your project as a zip file and submit as an attachment.
 
 
