@@ -43,7 +43,7 @@ Specifically:
    To avoid the need for file input to populate the `WordCounter` instance,
    directly create the desired iterator like so:
 
-        Arrays.asList("asdf", "oiu", "qwer").iterator()
+        List.of("asdf", "oiu", "qwer").iterator()
 
 1. Download the e-book attached to the assignment and copy it into your project's root directory.
 1. Use the program to determine the 10 most frequent words and their frequencies in this text by redirecting stdin from the downloaded file:
@@ -86,14 +86,14 @@ his=5529
 # Submission
 
 -    Make sure you have created a separate project for this activity.
--    Include a project-specific readme file including your reflection and any other thoughts or design decisions.
+-    Include a project-specific Answers.md file including your reflection and any other thoughts or design decisions.
 -    In IDEA, export your project as a zip file and submit as an attachment.
 
 
-# Grading (total 5)
+# Grading (total 3.5 points)
 
-- 2.5 completion of items marked TODO in `src/main` and correct behavior
-- 1.5 completion of meaningful tests in `TestWordCount`
-- 1 written part
-  - 0.8 responses to the questions above
-  - 0.2 grammar, style, formatting
+- 2 completion of items marked TODO in `src/main` and correct behavior
+- 1 completion of meaningful tests in `TestWordCount`
+- 0.5 written part
+  - 0.4 responses to the questions above
+  - 0.1 grammar, style, formatting
