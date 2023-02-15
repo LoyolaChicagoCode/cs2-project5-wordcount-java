@@ -1,4 +1,4 @@
-# Loyola COMP 271 Lab 4: sets and maps
+# Loyola COMP 271 Project 5: wordcount using maps
 
 ## Group activity
 
