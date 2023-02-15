@@ -7,7 +7,9 @@ public class Main {
   public static void main(final String[] args) throws InterruptedException {
 
     // set up the scanner so that it separates words based on space and punctuation
-    final Scanner input = new Scanner(System.in).useDelimiter("[^\\p{Alnum}]+");
+    final var input = new Scanner(System.in).useDelimiter("[^\\p{Alnum}]+");
+
+    System.out.println("Hello! Looks like you've still got some work to do.");
 
     // TODO complete this main program
     // 0. create suitable map instance
